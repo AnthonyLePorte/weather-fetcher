@@ -1,2 +1,2 @@
 # weather
-# Shows the weather and temperature for city
+# Shows the weather and temperature for selected city
